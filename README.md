@@ -6,6 +6,7 @@ This repository complements the full curriculum hosted on Notion, providing prac
 🐝 By applying deep learning, transfer learning, and Explainable AI (XAI), this curriculum demonstrates how AI-powered solutions can support biodiversity monitoring, ecosystem protection, and species conservation.
 
 **📖 The full learning content, including detailed explanations and structured modules, is hosted on Notion.**
+
 🔗 [Click here to access the Notion Curriculum](https://www.notion.so/Curriculum-Data-Science-and-Computer-Vision-Applications-in-Biodiversity-Conservation-18dc1e709ef5806fb066fec00f9946e1?pvs=4 )
 
 ## 🏗️ What This Repository Includes
@@ -79,8 +80,11 @@ Datasets & preprocessing scripts for biodiversity-focused AI.
 
 
 ### 🏆 Who Is This For?
+
 ✔ Students & Researchers interested in AI for biodiversity.
+
 ✔ Data scientists & ML engineers exploring real-world AI applications.
+
 ✔ Conservationists & Ecologists looking for AI-powered solutions.
 
 ## 📜 License  
